@@ -59,7 +59,7 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 8. (Optional) The SVG Logo Maker serves as a foundation so you are not limited to altering the files (as you have my permission) to create the best possible "logo.svg" file.
 
 ## Installation Process
-1. Clone the repository:(https://tanderson757.github.io/svg-logo-maker/)
+1. Clone the repository:(https://tanderson757.github.io/svg-logo-maker-2/)
 2. Install the following: 
 - Node.JS [Version 16.18.1](https://nodejs.org/en/blog/release/v16.18.1/)
 - Jest [Version 29.4.3](https://www.npmjs.com/package/jest)
@@ -106,4 +106,4 @@ SOFTWARE.
   
 ## Author
 
-© 2023 [Tanderson757](https://github.com/tanderson57). Confidential and Proprietary. All Rights Reserved.
+© 2023 [Tanderson757](https://github.com/tanderson757). Confidential and Proprietary. All Rights Reserved.
